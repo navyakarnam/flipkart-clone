@@ -1,0 +1,11 @@
+@relation apriori
+@attribute I1{y,n}
+@attribute I2{y,n}
+@attribute I3{y,n}
+@attribute I4{y,n}
+@attribute I5{y,n}
+@data
+y	n	y	y	n
+n	y	y	n	y
+y	y	y	n	y
+n	y	n	n	y
